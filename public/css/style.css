@@ -1,4 +1,13 @@
-body {
-    background-color: black;
+.container {
+    background-color: #111314;
     text-align: center;
+    color: #c7c7b5;
+}
+
+.title, .subtitle {
+    color: #c7c7b5;
+}
+
+body {
+    background-color: #061115;
 }
