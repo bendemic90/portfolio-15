@@ -11,3 +11,11 @@
 body {
     background-color: #061115;
 }
+
+.card-content {
+    background-color: #1d1e1f;
+}
+
+.fas, .fab, .far {
+    padding-right: 5px;
+}
